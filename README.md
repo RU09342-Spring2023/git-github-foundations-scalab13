@@ -1,6 +1,5 @@
 # :wave: The Basics of GitHub
 
-## Name: Brian Scala
 
 ## 🤓 Course overview and learning outcomes
 
